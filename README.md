@@ -1,4 +1,4 @@
 # Hi there!
 
-I am mysteryven, a fullStack programmer.
+I'm mysteryven, a fullStack programmer.
 
