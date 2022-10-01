@@ -13,6 +13,10 @@
 
 - [react-predict-virtual](https://github.com/mysteryven/react-virtual-list) - A Virtual List used Intersection Observable API.
 
+##### Mini toy
+
+- [mini-vite](https://github.com/mysteryven/mini-vite)
+
 ##### Find me
 
 - [blog](https://juejin.cn/user/430664290155751)
