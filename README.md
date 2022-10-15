@@ -16,7 +16,7 @@
 ##### Mini Toys
 
 - [mini-vite](https://github.com/mysteryven/mini-vite)
-- typing diff travel(add soon)
+- typing diff travel(will add soon)
 
 ##### Articles
 
