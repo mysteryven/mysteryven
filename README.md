@@ -22,7 +22,3 @@
 
 - [blog](https://juejin.cn/user/430664290155751)
 - [leetcode solutions](https://mysteryven-leetcode.netlify.app/)
-
-##### Work in Progress
-
-- [tryup](https://github.com/mysteryven/tryup) - learn how to bundle JS by realizing a mini bundler
