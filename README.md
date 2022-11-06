@@ -21,4 +21,3 @@
 ##### Articles
 
 - [blog](https://juejin.cn/user/430664290155751)
-- [leetcode solutions](https://mysteryven-leetcode.netlify.app/)
