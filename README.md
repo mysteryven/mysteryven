@@ -1,7 +1,7 @@
 # Hi there!
 
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=mysteryven&count_private=true&theme=dracula" >
-<img align="right" width="500" src="https://leetcard.jacoblin.cool/mysteryven?theme=nord&font=Actor&ext=contest&site=cn" >
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=mysteryven&count_private=true&theme=dracula" >
+<img align="right" width="300" src="https://leetcard.jacoblin.cool/mysteryven?theme=nord&font=Actor&ext=contest&site=cn" >
 
 I'm learning Rust.
 
