@@ -1,8 +1,10 @@
-# Hi there!
+
+## Hi there !
+
+I'm mysteryven, a front-end engineer, and now I am learning Rust.
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mysteryven&count_private=true&theme=dracula" >
-
-I'm learning Rust.
+ 
 
 ##### Project
 
@@ -12,4 +14,7 @@ I'm learning Rust.
 
 ##### Articles
 
-- [blog](https://juejin.cn/user/430664290155751)
+- [juejin](https://juejin.cn/user/430664290155751)
+- [Leetcode weekly contest](https://mysteryven-leetcode.netlify.app/)
+
+
