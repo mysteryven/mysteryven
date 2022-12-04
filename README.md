@@ -1,8 +1,6 @@
 
 ## Hi there !
 
-I'm mysteryven, a front-end engineer, and now I am learning Rust.
-
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mysteryven&count_private=true&theme=dracula" >
  
 
