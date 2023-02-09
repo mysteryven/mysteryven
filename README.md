@@ -3,7 +3,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<div>
-  <img width=420 src="https://github-readme-stats.vercel.app/api/wakatime?username=mysteryven"><br>
-</div>
-
+![light](https://github-readme-stats.vercel.app/api/wakatime?username=mysteryven&theme=vue#gh-light-mode-only)
+![dark](https://github-readme-stats.vercel.app/api/wakatime?username=mysteryven&theme=vue-dark#gh-dark-mode-only)
