@@ -1,15 +1,6 @@
 ## Hi there!
 
+[![wakatime](https://wakatime.com/badge/user/570156c2-bdc5-47f9-8b2c-cf22bd92ef2d.svg)](https://wakatime.com/@570156c2-bdc5-47f9-8b2c-cf22bd92ef2d)
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning      191 commits       █████░░░░░░░░░░░░░░░░░░░░   23.04 % 
-🌆 Daytime      323 commits       █████████░░░░░░░░░░░░░░░░   38.96 % 
-🌃 Evening      309 commits       █████████░░░░░░░░░░░░░░░░   37.27 % 
-🌙 Night          6 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-
-```
 <!--END_SECTION:waka-->
