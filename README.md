@@ -1,6 +1,25 @@
 ## Hi there!
 
-[![wakatime](https://wakatime.com/badge/user/570156c2-bdc5-47f9-8b2c-cf22bd92ef2d.svg)](https://wakatime.com/@570156c2-bdc5-47f9-8b2c-cf22bd92ef2d)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mysteryven&show_icons=true&theme=solarized-light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height=50% src="https://github-readme-stats.vercel.app/api?username=mysteryven&show_icons=true&theme=solarized-light" />
+</picture>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mysteryven&langs_count=5&theme=dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mysteryven&langs_count=5&theme=solarized-light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height=50% src="https://github-readme-stats.vercel.app/api?username=mysteryven&show_icons=true&theme=solarized-light" />
+</picture>
